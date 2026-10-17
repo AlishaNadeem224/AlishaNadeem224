@@ -1,6 +1,6 @@
 # Alisha Nadeem
 
-Computer Science student focused on full-stack development, with a growing interest in applied ML and LLM-powered tooling. I build complete, working projects — backend, frontend, and the integration between them — rather than isolated exercises.
+B.Tech Computer Science undergraduate (CGPA 9.1) with full-stack development experience in Next.js, FastAPI, and TypeScript, plus AWS-certified exposure to applied AI/ML. I build complete, working projects — backend, frontend, and the integration between them — and I'm an active open-source contributor.
 
 Based in Dehradun, India.
 
@@ -8,9 +8,21 @@ Based in Dehradun, India.
 
 ## Currently
 
-- Learning machine learning fundamentals and exploring how to build practical, LLM-powered applications
-- Strengthening data structures and algorithms
-- Looking for full-stack and software engineering internships
+- Full-Stack Development Intern at Cognifyz IT Solutions, building on live client projects
+- Contributing to web-based repositories through GirlScript Summer of Code (GSSoC) 2026
+- Learning machine learning fundamentals and exploring LLM-powered application design
+
+---
+
+## Experience
+
+**Full Stack Development Intern** — Cognifyz IT Solutions Pvt. Ltd., Nagpur
+*Apr 2026 – May 2026*
+Built full-stack web applications (frontend and backend) on live client projects; participated in code reviews and deployment cycles.
+
+**Open Source Contributor** — GirlScript Summer of Code (GSSoC) 2026
+*Apr 2026 – Present*
+Contributing PRs to web-based repositories as part of a competitive 3-month mentorship programme, collaborating with maintainers across multiple projects.
 
 ---
 
@@ -19,14 +31,11 @@ Based in Dehradun, India.
 **Languages**
 Python · JavaScript · TypeScript · C · C++ · Java
 
-**Frontend**
-Next.js · Tailwind CSS · shadcn/ui · HTML/CSS
+**Frameworks**
+Next.js 15 · FastAPI · Tailwind CSS · shadcn/ui
 
-**Backend**
-FastAPI · REST API design
-
-**Cloud & AI Tooling**
-AWS · Groq LLM API
+**AI / Cloud**
+Groq LLM · AWS (Generative AI, AI Practitioner) · REST APIs
 
 **Tools**
 Git · GitHub · VS Code
@@ -36,27 +45,36 @@ Git · GitHub · VS Code
 ## Featured Projects
 
 ### [CriticCode AI](https://github.com/AlishaNadeem224/CriticCode-AI)
-An AI-powered code review assistant — paste in code and get back structured feedback on bugs, security issues, and performance. Built to demonstrate a full working pipeline from frontend input to LLM-backed analysis.
-`Next.js` · `FastAPI` · `Groq LLM`
+A full-stack AI code review assistant — paste in code and get back line-level feedback on bugs, security issues, and performance, delivered via a streaming REST API.
+`Next.js 15` · `TypeScript` · `FastAPI` · `Groq LLM` · `Tailwind CSS`
 
 ### [ScribeSense](https://github.com/AlishaNadeem224/ScribeSense)
 A system-wide accessibility tool that adds reading-friendly letter spacing for dyslexic users on Linux, with per-app font adapters for Hyprland and GTK4.
 `Python` · `Linux` · `GTK4`
 
-### [Cognitive Quest](https://github.com/ProRyanX/Cognitive-Quest) — *team project*
-A Java desktop game that combines quiz-based problem solving with a combat system — difficulty affects damage, rewards, and penalties, with health persisting across waves. Built with a teammate; repo hosted on their account.
-`Java` · `OOP`
+### Cinema Hall Management System
+A C++ console application for seat booking and cancellation, with real-time 5×10 grid visualization built using OOP design patterns.
+`C++` · `OOP`
 
-### [WiFi Network Optimizer](https://github.com/ProRyanX/WiFi-Network-Optimizer) — *team project*
-An implementation of a WiFi network optimizer that constructs a Minimum Spanning Tree from a given network graph to reduce connection cost. Built with a teammate; repo hosted on their account.
-`C` · `Graph Algorithms`
+### Parking Management System
+A C console application handling user authentication, dynamic slot allocation, fee calculation, and file-based persistent storage.
+`C` · `File I/O`
+
+---
+
+## Education
+
+**B.Tech, Computer Science** — Graphic Era Deemed University
+*2024 – Present · CGPA 9.1*
 
 ---
 
 ## Certifications
 
-- AWS Certified AI Practitioner
-- AWS Generative AI
+- Developing Generative AI Solutions — AWS (Feb 2026)
+- Optimizing Foundation Models & Responsible AI — AWS
+- AWS Knowledge: Cloud Essentials — AWS
+- Joy of Computing using Python (Elite, 84%) — NPTEL
 
 ---
 
