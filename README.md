@@ -8,8 +8,7 @@ Based in Dehradun, India.
 
 ## Currently
 
-- Full-Stack Development Intern at Cognifyz IT Solutions, building on live client projects
-- Contributing to web-based repositories through GirlScript Summer of Code (GSSoC) 2026
+- Contributed to web-based repositories through GirlScript Summer of Code (GSSoC) 2026
 - Learning machine learning fundamentals and exploring LLM-powered application design
 
 ---
